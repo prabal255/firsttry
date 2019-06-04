@@ -1,0 +1,9 @@
+find path by using pwd
+then type
+gedit /home/adhoc/.bashrsc
+## you can find name of this hidden file by typing ls -a it will show all hidden files in this
+to change in thAT terminal type sourche and rest all the same 
+now type that function name and it will run keep in mind in terminal you dont have to use paranthesis
+with function
+if you have to change name then use 
+alias d ='date'
